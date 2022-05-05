@@ -1,3 +1,3 @@
 Olá! 
 
-Calculadora de Índece de Massa Corporal.
+Calculadora de Índice de Massa Corporal.
